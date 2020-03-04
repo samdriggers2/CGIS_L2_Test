@@ -1,4 +1,4 @@
-# CGIS_L2
+# CGIS_L2_Test
 #
 #
-## This is the repository for my Mapbox Lab in Community GIS (CGIS). 
+## This is the test repository for my Mapbox Lab in Community GIS (CGIS). 
